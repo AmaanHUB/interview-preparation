@@ -90,8 +90,9 @@ Additionally, I have developed a variety of soft skills such as conflict resolut
 		* CREATE
 		* ALTER
 		* DROP
-		* TRUNCATE ## Python Questions (Potential)
+		* TRUNCATE
 
+## Python Questions (Potential)
 * **What is OOP and the four pillars?**
 * **Example of when you implemented OOP?**
 * **What is TDD and how you used it?**
