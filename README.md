@@ -18,8 +18,16 @@ Additionally, I have developed a variety of soft skills such as conflict resolut
 ## Agile And Scrum
 
 * **What is Agile?**
+	* Agile is an iterative approach to project management and software development that helps teams deliver value to their customers faster and with fewer headaches. Instead of betting everything on a "big bang" launch, an agile team delivers work in small, but consumable, increments. Requirements, plans, and results are evaluated continuously so teams have a natural mechanism for responding to change quickly.
+		* **Manifesto for Agile:**
+			* Individuals and interactions over processes and tools
+			* Working software over comprehensive documentation
+			* Customer collaboration over contract negotation
+			* Responding to change over following a plan
 * **What is Scrum?**
+	* Scrum is a framework that helps teams work together, which encourage them to learn through experiences, self-organisation whilst working on a problem, and reflection on their wins and losses to continuously improve.
 * **Difference between Agile and Scrum?**
+	* Agile is a model of continuous iteration of development and testing whereas Scrum is a methodology that is an implementation of Agile that focuses on delivering the business value in the shortest amount of time.
 * **What are the 3 amigos?**
 * **What are personas in Scrum?**
 * **What are Scrum artifacts, Scrum roles?**
