@@ -29,6 +29,17 @@ Additionally, I have developed a variety of soft skills such as conflict resolut
 * **Difference between Agile and Scrum?**
 	* Agile is a model of continuous iteration of development and testing whereas Scrum is a methodology that is an implementation of Agile that focuses on delivering the business value in the shortest amount of time.
 * **What are the 3 amigos?**
+	* Primary perspectives to examine an increment of work before, during, and after development. These include:
+		* *Business*:
+			* What problem are we trying to solve?
+		* *Devlopment*:
+			* How might we build a solution tp solve that problem?
+		* *Testing*:
+			* What could possibly happen?
+	* *Benefits:*
+		* Shared understanding about the intent of an increment of work
+		* Identifies misunderstandings and confusion early and allows learning to happen sooner in the delivery of an increment of work
+		* Provides a limit to the number of people who should be involved in discussions about any given increment of work
 * **What are personas in Scrum?**
 * **What are Scrum artifacts, Scrum roles?**
 * **What are Sprints and Sprint Reviews?**
