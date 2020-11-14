@@ -26,6 +26,12 @@ Additionally, I have developed a variety of soft skills such as conflict resolut
 			* Responding to change over following a plan
 * **What is Scrum?**
 	* Scrum is a framework that helps teams work together, which encourage them to learn through experiences, self-organisation whilst working on a problem, and reflection on their wins and losses to continuously improve.
+		* *Values:*
+			* Courage to do the right thing and work on tough problems
+			* Focus on the work of the sprint and the goals of the Scrum team
+			* Commitement to achieving the goals of the Scrum team
+			* Respect each other to be capable, independent people
+			* Openness about all work and challenges with performing the work to the team and stakeholder
 * **Difference between Agile and Scrum?**
 	* Agile is a model of continuous iteration of development and testing whereas Scrum is a methodology that is an implementation of Agile that focuses on delivering the business value in the shortest amount of time.
 * **What are the 3 amigos?**
@@ -41,17 +47,50 @@ Additionally, I have developed a variety of soft skills such as conflict resolut
 		* Identifies misunderstandings and confusion early and allows learning to happen sooner in the delivery of an increment of work
 		* Provides a limit to the number of people who should be involved in discussions about any given increment of work
 * **What are personas in Scrum?**
+	* Essentially detailed, synthetic biographies of fictitious users of a future product
+	* *Benefits:*
+		* Provide an anchor for justifying design choices, put emphasis on goals and behaviours
 * **What are Scrum artifacts, Scrum roles?**
+	* **Roles:**
+		* *Development team members*
+			* Those that do the work to make the project. Can include designers, programmers etc
+		* *Product owner*
+			* Sets clear direction of the project. Understand the customer and have a vision for the value the scrum team is delivering the customer
+		* *Scrum master*
+			* Servant leader, help product owner understand and communicate values
+			* Encourage self-organisation in the development team
+			* Maintain the values of the Scrum
 * **What are Sprints and Sprint Reviews?**
+	* *Sprints:*
+		* Time box during which a "done", usable, potentially releasable increment is created
+	* *Sprint Reviews:*
+		* Held at the end of the sprint to inspect the increment and adapt the 'product backlog' (ordered list of everything that is known to be needed in the product .i.e. requirements to do the project) if needed
 * **User and Epic Stories?**
+	* *User Stories:*
+		* A user story is the smallest unit of work in an agile framework, though they can be used in other methodologies. It is often an end goal expressed from the software user's perspective.
+			* *Benefits:*
+				* Keeps focus on user
+				* Enable collaboration as end goal defined
+				* Drive creative solutions, encourages critical thinking
+				* Create momentum, lots of small wins
+	* *Epic Stories:*
+		* In short, an epic is a body of work that can be broken down into specific tasks (user stories) based upon the needs and requests of customers or end users. They can be a helpful way to organise work and create a hierarchy so that work can be broken down into shippable pieces so that large projects can get done on time and can continue to be shipped to customers on a regular basis.
 * **Difference between and use cases between V-model, Waterfall, and Agile?**
 
 ## SQL Questions (Potential)
 
 * **What is a foreign key?**
 * **What is DML and DDL?**
-
-## Python Questions (Potential)
+	* DML (data manipulation language) is more to do with the actual data on the table. Includes commands such as:
+		* SELECT
+		* INSERT
+		* UPDATE
+		* DELETE
+	* DDL (data definition language) defines tables and the structure of a database. Commands include:
+		* CREATE
+		* ALTER
+		* DROP
+		* TRUNCATE ## Python Questions (Potential)
 
 * **What is OOP and the four pillars?**
 * **Example of when you implemented OOP?**
