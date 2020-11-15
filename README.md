@@ -113,4 +113,11 @@ Additionally, I have developed a variety of soft skills such as conflict resolut
 		* Polymorphism:
 			* Polymorphism is derived from 2 Greek words: poly and morphs. The word "poly" means many and "morphs" means forms. So polymorphism means "many forms". A subclass can define its own unique behavior and still share the same functionalities or behavior of its parent/base class. A subclass can have their own behavior and share some of its behavior from its parent class not the other way around. A parent class cannot have the behavior of its subclass
 * **Example of when you implemented OOP?**
+	* Situation - Had a database, wanted some information of it
+	* Task - Create a file with a method to get the average number of units in stock from a table, and use another file to essentially run this method
+	* Action - Created first file with constructor etc and used `pyodbc` to connect to the database.
+		* Created a methoid with an SQL statement to calculate the average UnitsInStock and print only this, with everything in a `try except` section
+		* Create second file that inherits from this class (with relevant constructor), and instantiate an object and run the method to test (Abstraction, and Inheritance)
+	* Result - Did all this
+	* Reflection - Maybe have an interface of some sort in the file that does the inheriting to make it easier for the user to use, though all the main requirements was met, so this could be a second iteration
 * **What is TDD and how you used it?**
