@@ -80,6 +80,14 @@ Additionally, I have developed a variety of soft skills such as conflict resolut
 ## SQL Questions (Potential)
 
 * **What is a foreign key?**
+	* Primary key in a secondary table (which builds the relationship to the primary table)
+	* Can repeat many times (no uniqueness constraints)
+	* *When used?:*
+		* Situation - A couple of tables containing product details, customer details, orders etc
+		* Task - Print out all relevant order details (.i.e. products ordered) with the customers grouped by a column (city?)
+		* Action - Found where the tables connected, with foreign keys, and what columns I needed to print out
+		* Result - Used the foreign key to join multiple tables together with INNER JOIN (as didn't need or want NULL values), outputted the relevant columns in the SELECT portion and used a GROUP BY statement to group by City
+		* Reflection - it is easy to do when you can visualise where each table connects where, would spend more time on this in the future so the query can be made quicker with less trial and error
 * **What is DML and DDL?**
 	* DML (data manipulation language) is more to do with the actual data on the table. Includes commands such as:
 		* SELECT
