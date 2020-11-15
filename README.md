@@ -121,3 +121,9 @@ Additionally, I have developed a variety of soft skills such as conflict resolut
 	* Result - Did all this
 	* Reflection - Maybe have an interface of some sort in the file that does the inheriting to make it easier for the user to use, though all the main requirements was met, so this could be a second iteration
 * **What is TDD and how you used it?**
+	* First write the tests, then write the code to the tests, then in the next iteration make more tests and the more code etc until releasable
+		* Reduce the risk of failure before sending a product to production
+	* Situation - testing how to use pytest and unittest in Python
+	* Task - Create a simple application to test if a number is positive and if a number is fully divisible (.i.e. no remainder) as separate functions
+	* Actions - Created a test file, wrote the tests for a these functions using `assertTrue` and `assertFalse` given that planned for the functions that testing would return `True/False` answers. Tested, failed as should, then created the functions based on the behaviours decided on these tests
+	* Results - Worked after the main functions implemented. Added some extra tests to check different cases within these test functions (checking both true and false answers)
