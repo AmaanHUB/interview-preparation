@@ -76,6 +76,23 @@ Additionally, I have developed a variety of soft skills such as conflict resolut
 	* *Epic Stories:*
 		* In short, an epic is a body of work that can be broken down into specific tasks (user stories) based upon the needs and requests of customers or end users. They can be a helpful way to organise work and create a hierarchy so that work can be broken down into shippable pieces so that large projects can get done on time and can continue to be shipped to customers on a regular basis.
 * **Difference between and use cases between V-model, Waterfall, and Agile?**
+	* *V-model:*
+		* Development and corresponding tasks are condsidered equal importance (see two sides of V)
+			* Business requirements on the right, design requirements on the left
+		* Useful for small to medium projects where *requirements are defined and fixed*
+		* No prototypes
+			* Potentially high risk
+		* Simple and easy to use
+		* Higher chance of success than waterfall model, though still rigid, thus leading to little flexibility and adjusting scope is difficult and expensive
+	* *Waterfall:*
+		* One development level at a time before the next is started. Relies at each step to decide whether to continue the project if it is on the right path or not. Can be used for short projects, where product is stable and *requirements known and fixed*. *Great for projects that need strong documentation too*
+		* Easy to understand and implement
+		* Significant administrative overhead (costly for small teams and projects)
+		* Software delivered late in the project, delays discovery of serious errors
+	* *Agile:*
+		* Utilises the principles (shown in previous question) to potentially increase the efficiency of the projects by breaking into smaller increments, is iterative
+		* Good for when requirements unclear, quick changes are needed and no documentation is needed
+		* Difficult to scale up to large projects where documentation is essential
 
 ## SQL Questions (Potential)
 
